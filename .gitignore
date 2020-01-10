@@ -1,5 +1,7 @@
 # Project exclude paths
 /target/
+# .csv ignore is in version-2
+*.csv
 
 # ------ scala ignore  -------
 # *.class
