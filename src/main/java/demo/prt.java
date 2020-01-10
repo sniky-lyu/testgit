@@ -11,5 +11,6 @@ public class prt {
         System.out.println("test for git integration: version-2");
         System.out.println("test for git integration: version-3");
         System.out.println("test for version-5");
+        System.out.println("test for version-6");
     }
 }
